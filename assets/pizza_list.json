@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita",
+    "description": "Classic Italian pizza topped with tomatoes, mozzarella, and basil.",
+    "img": "https://static.nationalgeographic.fr/files/styles/image_3200/public/pizza2.jpg?w=1600&h=900",
+    "price": 8.99
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni",
+    "description": "Classic pizza with pepperoni slices and melted mozzarella cheese.",
+    "img": "https://static.nationalgeographic.fr/files/styles/image_3200/public/pizza2.jpg?w=1600&h=900",
+    "price": 9.99
+  },
+  {
+    "id": 3,
+    "name": "Vegetarian",
+    "description": "Delicious pizza topped with fresh vegetables like bell peppers, onions, and mushrooms.",
+    "img": "https://static.nationalgeographic.fr/files/styles/image_3200/public/pizza2.jpg?w=1600&h=900",
+    "price": 10.99
+  },
+  {
+    "id": 4,
+    "name": "Hawaiian",
+    "description": "Sweet and savory pizza topped with ham, pineapple, and cheese.",
+    "img": "https://static.nationalgeographic.fr/files/styles/image_3200/public/pizza2.jpg?w=1600&h=900",
+    "price": 11.99
+  },
+  {
+    "id": 5,
+    "name": "Supreme",
+    "description": "Loaded with toppings like pepperoni, sausage, onions, bell peppers, and mushrooms.",
+    "img": "https://static.nationalgeographic.fr/files/styles/image_3200/public/pizza2.jpg?w=1600&h=900",
+    "price": 12.99
+  },
+  {
+    "id": 6,
+    "name": "BBQ Chicken",
+    "description": "Tangy BBQ sauce, grilled chicken, onions, and cilantro atop a crispy crust.",
+    "img": "https://static.nationalgeographic.fr/files/styles/image_3200/public/pizza2.jpg?w=1600&h=900",
+    "price": 13.99
+  },
+  {
+    "id": 7,
+    "name": "Mushroom",
+    "description": "Simple yet delicious, with sliced mushrooms and melted cheese.",
+    "img": "https://static.nationalgeographic.fr/files/styles/image_3200/public/pizza2.jpg?w=1600&h=900",
+    "price": 10.99
+  },
+  {
+    "id": 8,
+    "name": "Meat Lovers",
+    "description": "A carnivore's delight, with pepperoni, sausage, ham, and bacon.",
+    "img": "https://static.nationalgeographic.fr/files/styles/image_3200/public/pizza2.jpg?w=1600&h=900",
+    "price": 14.99
+  },
+  {
+    "id": 9,
+    "name": "Buffalo Chicken",
+    "description": "Spicy buffalo sauce, grilled chicken, and red onions, with a drizzle of ranch dressing.",
+    "img": "https://static.nationalgeographic.fr/files/styles/image_3200/public/pizza2.jpg?w=1600&h=900",
+    "price": 12.99
+  },
+  {
+    "id": 10,
+    "name": "Four Cheese",
+    "description": "A cheese lover's dream, with mozzarella, cheddar, provolone, and parmesan.",
+    "img": "https://static.nationalgeographic.fr/files/styles/image_3200/public/pizza2.jpg?w=1600&h=900",
+    "price": 11.99
+  }
+]
